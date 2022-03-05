@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is Fay. I am learning to be a **Frontend Developer**.
+My name is Fay. Welcome to my **GitHub Profile**.
 
 ## About Me
 
