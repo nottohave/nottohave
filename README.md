@@ -1,6 +1,6 @@
-### Hi there 👋 
+## Hi there 👋 
 
-My name is Fay. Welcome to my **GitHub Profile**.
+Welcome to **Fay GitHub Profile**.
 
 ## About Me
 
@@ -8,11 +8,11 @@ My name is Fay. Welcome to my **GitHub Profile**.
 
 - Hobbies beside coding: cooking, gaming, rollerblade on summer, meditation.
 
-## Tech stack
+### Tech stack
 
 HTML5 CSS3 Javascript.
 
-## Projects: 
+### Projects: 
 
 - [Space Travel](https://github.com/nottohave/space-travel-website-practice#links) 
 
@@ -22,7 +22,7 @@ HTML5 CSS3 Javascript.
 
 - [Interactive Pricing Slider](https://github.com/nottohave/interactive-pricing-slider)
 
-## Connect 
+#### Connect 
 
 - [Twitter](https://twitter.com/Ubering_Cacti)
 
