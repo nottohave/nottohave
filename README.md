@@ -1,16 +1,15 @@
-## Hi there 👋 
-
-Welcome to **My GitHub Profile**.
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
+## Hi there 👋 
+
+Welcome to **my GitHub Profile**.
 ## About Me
 
-I like to make websites with good designs. I also like to do code review and give valuable feedbacks. Hobbies beside coding: pop music, a bit of gaming and cooking.
+I like to make websites with good designs. I also like to do coding review and give / receive valuable feedbacks. Hobbies beside coding: pop music, a bit of gaming and cooking.
 
----
+
 ### I use:
 
 <div>
