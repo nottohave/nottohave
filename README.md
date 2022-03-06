@@ -42,6 +42,4 @@ I'm doing frontendmentor challenge at the moment. Hobby: discover new music 💿
    <img src="https://komarev.com/ghpvc/?username=nottohave&style=flat-square&color=blue" alt="git user stat"/>
  </div>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nottohave&theme=earth&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottohave&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
