@@ -8,7 +8,7 @@ Welcome to **my GitHub Profile**.
 
 ## About Me
 
-I'm doing frontendmentor challenge at the moment. Hobby: reading and coding.
+I'm doing frontendmentor challenge at the moment. Hobby: discover new music, small reading, meditation.
 
 ### I use:
 
@@ -35,3 +35,13 @@ I'm doing frontendmentor challenge at the moment. Hobby: reading and coding.
   <a href="https://twitter.com/Ubering_Cacti">
   <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter social media">
 </div>
+  
+### My stats
+  
+ <div> 
+   <img src="https://komarev.com/ghpvc/?username=nottohave&style=flat-square&color=blue" alt="git user stat"/>
+ </div>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nottohave&theme=earth&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottohave&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
