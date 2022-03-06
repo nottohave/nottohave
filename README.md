@@ -4,8 +4,9 @@ Welcome to **My GitHub Profile**.
 
 ## About Me
 
-- I am self-taught.
+- Constantly learning frontend at the moment.
 
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
