@@ -8,8 +8,7 @@ Welcome to **my GitHub Profile**.
 
 ## About Me
 
-I like to make websites with good designs. I also like to do coding review and give / receive valuable feedbacks. Hobbies beside coding: pop music, a bit of gaming and cooking.
-
+Hobby in cooking and gaming.
 
 ### I use:
 
