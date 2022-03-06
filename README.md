@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
-## Hi there 👋 
+## Hi there 👋🏼
 
 Welcome to **my GitHub Profile**.
 
 ## About Me
 
-I'm doing frontendmentor challenge at the moment. Hobby: discover new music, small reading, meditation.
+I'm doing frontendmentor challenge at the moment. Hobby: discover new music 💿, small reading 🐱‍👓, yoga 🧘🏽, cooking 🍳.
 
 ### I use:
 
