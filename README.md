@@ -2,12 +2,16 @@
 
 Welcome to **My GitHub Profile**.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
+
 ## About Me
 
-- Constantly learning frontend at the moment.
+I like to make websites with good designs. I also like to do code review and give valuable feedbacks. Hobbies beside coding: pop music, a bit of gaming and cooking.
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### I use:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -16,7 +20,7 @@ Welcome to **My GitHub Profile**.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Projects: 
+### My Projects: 
 
 - [Space Travel](https://github.com/nottohave/space-travel-website-practice#links) 
 
@@ -26,7 +30,7 @@ Welcome to **My GitHub Profile**.
 
 - [Interactive Pricing Slider](https://github.com/nottohave/interactive-pricing-slider)
 
-#### Connect 
+#### Feel free to reach out. Always looking for more connections.
 
 - [Twitter](https://twitter.com/Ubering_Cacti)
 
