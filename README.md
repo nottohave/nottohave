@@ -1,12 +1,10 @@
 ## Hi there 👋 
 
-Welcome to **Fay GitHub Profile**.
+Welcome to **My GitHub Profile**.
 
 ## About Me
 
-- I have been self-taught myself to code since summer 2020. I'm currently learning Frontend stack.
-
-- Hobbies beside coding: cooking, gaming, rollerblade on summer, meditation.
+- I am self-taught.
 
 ### Tech stack
 
@@ -26,4 +24,3 @@ HTML5 CSS3 Javascript.
 
 - [Twitter](https://twitter.com/Ubering_Cacti)
 
-- [Instagram](https://www.instagram.com/ubering_cacti/)
