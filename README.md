@@ -1,10 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
 ## Hi there 👋 
 
 Welcome to **my GitHub Profile**.
+
 ## About Me
 
 I like to make websites with good designs. I also like to do coding review and give / receive valuable feedbacks. Hobbies beside coding: pop music, a bit of gaming and cooking.
@@ -31,5 +32,7 @@ I like to make websites with good designs. I also like to do coding review and g
 
 #### Feel free to reach out. Always looking for more connections.
 
-- [Twitter](https://twitter.com/Ubering_Cacti)
-
+<div>
+  <a href="https://twitter.com/Ubering_Cacti">
+  <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter social media">
+</div>
