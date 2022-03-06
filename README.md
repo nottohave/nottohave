@@ -8,7 +8,7 @@ Welcome to **my GitHub Profile**.
 
 ## About Me
 
-I'm doing frontendmentor challenge at the moment. Hobby: cooking and coding.
+I'm doing frontendmentor challenge at the moment. Hobby: reading and coding.
 
 ### I use:
 
