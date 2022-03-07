@@ -38,8 +38,4 @@ I'm doing frontendmentor challenge at the moment. Hobby: discover new music 💿
   
 ### My stats
   
- <div> 
-   <img src="https://komarev.com/ghpvc/?username=nottohave&style=flat-square&color=blue" alt="git user stat"/>
- </div>
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottohave&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
