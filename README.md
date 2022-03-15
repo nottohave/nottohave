@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
-</div>
-
 ## Hi there 👋🏼
 
 Welcome to **my GitHub Profile**.
@@ -35,7 +31,3 @@ I like to build website and review codes. Currently I am working on giving code 
   <a href="https://twitter.com/Ubering_Cacti">
   <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter social media">
 </div>
-  
-### My stats
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottohave&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
