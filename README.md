@@ -6,7 +6,7 @@ Welcome to **my GitHub Profile**.
 
 I like to build website and review codes. Currently I am working on giving code review on frontendmentor. I see it as a good learning, also to help people and expand connections. My hobby: discover new music 💿, small reading 🐱‍👓, yoga 🧘🏽, cooking 🍳.
 
-- Visit my website: [![Netlify Status](https://api.netlify.com/api/v1/badges/25312a72-d463-4051-b8cc-b93d5b5fe6f2/deploy-status)](https://app.netlify.com/sites/fay-personal-portfolio/deploys)
+- Visit my website at [Netlify](https://fay-personal-portfolio.netlify.app/)
 
 ### I use:
 
