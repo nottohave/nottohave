@@ -25,6 +25,8 @@ I like to build website and review codes. Currently I am working on giving code 
 
 - [GitHub profile finder](https://github.com/nottohave/frontendmentor_octocat)
 
+- [FAQ Accordion Card](https://github.com/nottohave/faq-accordion-card#links)
+
 - [Interactive Pricing Slider](https://github.com/nottohave/interactive-pricing-slider)
 
 #### Feel free to reach out. Always looking for more connections.
