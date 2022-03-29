@@ -29,6 +29,8 @@ I like to build website and review codes. Currently I am working on giving code 
 
 - [Interactive Pricing Slider](https://github.com/nottohave/interactive-pricing-slider)
 
+- [Meet Landing Page](https://github.com/nottohave/meet-landing-page)
+
 #### Feel free to reach out. Always looking for more connections.
 
 <div>
