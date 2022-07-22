@@ -19,7 +19,7 @@ I like to build website and review codes. Currently I am working on giving code 
 
 ### My Projects: 
 
-- [Live Site](https://nottohave.github.io/planet-earth-site/)
+- [Planet Earth Site](https://nottohave.github.io/planet-earth-site/)
 
 - [Space Travel](https://github.com/nottohave/space-travel-website-practice#links) 
 
