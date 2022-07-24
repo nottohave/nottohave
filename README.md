@@ -4,7 +4,7 @@ Welcome to **my GitHub Profile**.
 
 ## About Me
 
-I like to build website and review codes. I have been self taught since 2020. Creating something out of thin air is magical to me, and I could only do it on the web. I take programming as a way to learn and self improvement. If you like what I have or want to connect, let me know. 
+I like to build website and review codes. I have been self taught myself for awhile and learning about programming is a hobby. If you like what I have or want to connect, let me know. 
 
 My hobby: discover new music 💿, small reading 🐱‍👓, watching good science movies and a little hiking for the day.
 
