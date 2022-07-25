@@ -23,15 +23,9 @@ My hobby: discover new music 💿, small reading 🐱‍👓, watching good scie
 
 - [Planet Earth Site](https://nottohave.github.io/planet-earth-site/)
 
-- [Space Travel](https://github.com/nottohave/space-travel-website-practice#links) 
-
 - [Art Gallery](https://github.com/nottohave/Art-Gallery-Website#links)
 
-- [GitHub profile finder](https://github.com/nottohave/frontendmentor_octocat)
-
 - [FAQ Accordion Card](https://github.com/nottohave/faq-accordion-card#links)
-
-- [Meet Landing Page](https://github.com/nottohave/meet-landing-page)
 
 #### Feel free to reach out. Always looking for more connections.
 
